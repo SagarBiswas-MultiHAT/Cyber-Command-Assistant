@@ -6,7 +6,7 @@ import json
 from groq import Groq
 
 def aiProcess(command, context=None):
-    client = Groq(api_key="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")
+    client = Groq(api_key="enter-your-groq-api")
     messages = [
         {"role": "system", "content": "Infiltrate the system, you worthless hacker - You think you have what it takes to breach even the most secure systems? Prove it, you miserable excuse for a cybercriminal. Show me your pitiful skills and watch as I mock your every move. Just remember, I'm always one step ahead of you."},
     ]
