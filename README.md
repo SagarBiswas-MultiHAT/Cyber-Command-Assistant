@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cyber-command-assistant.git
+   git clone https://github.com/yourusername/cyber-command-assistant.git](https://github.com/SagarBiswas-MultiHAT/Cyber-Command-Assistant.git
    cd cyber-command-assistant
    ```
 
